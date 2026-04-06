@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+backend/data/
+.DS_Store
+node_modules/
+.vercel/
+.netlify/

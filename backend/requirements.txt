@@ -1,0 +1,7 @@
+flask
+flask-cors
+scikit-learn
+pandas
+numpy
+# gunicorn is used for production (Render/Linux only, not needed on Windows)
+gunicorn; sys_platform != "win32"
